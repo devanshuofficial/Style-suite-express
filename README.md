@@ -203,9 +203,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Sahil Garg**
-- GitHub: [@SahilGarg15](https://github.com/SahilGarg15)
-- Repository: [style-suite-express](https://github.com/SahilGarg15/style-suite-express)
+**Devanshu Singla**
+- GitHub: [@devanshuofficial](https://github.com/devanshuofficial)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/devanshu-singla05/)
 
 ## 🤝 Contributing
 
